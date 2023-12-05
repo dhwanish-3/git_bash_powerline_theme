@@ -16,7 +16,7 @@ I recommend the following:
 
 ```bash
 cd $HOME
-mkdir -p .bash/themes/git_bash_windows_powerline
+mkdir -p .bash/themes/git_bash_powerline_theme
 git clone https://github.com/dhwanish-3/git-bash-powerline-theme.git .bash/themes/git_bash_powerline_theme
 ```
 
